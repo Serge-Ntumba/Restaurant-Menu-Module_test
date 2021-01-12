@@ -1,0 +1,47 @@
+
+{
+    "products": {
+        "water": {
+            "name": "Water",
+            "stock": 3,
+            "price": 1.00
+        },
+        "cola": {
+            "name": "Coca-Cola",
+            "stock": 75,
+            "price": 2.90
+        },
+        "coffee": {
+            "name": "Coffee",
+            "stock": 200,
+            "price": 1.50
+        },
+        "tea": {
+            "name": "Tea",
+            "stock": 10,
+            "price": 1.25
+        },
+        "popsicle": {
+            "name": "Popsicle",
+            "stock": 8,
+            "price": 1.50
+        },
+        "iceCream": {
+            "name": "Ice Cream",
+            "stock": 0,
+            "price": 2.00
+        },
+        "sandwich": {
+            "name": "Sandwich",
+            "stock": 22,
+            "price": 3.90
+        },
+        "chips": {
+            "name": "Chips",
+            "stock": 50,
+            "price": 1.80
+        }
+    }
+
+}
+
